@@ -63,9 +63,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwin-yoner&show_icons=true&locale=en&layout=compact" alt="edwin-yoner" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinyoner&show_icons=true&locale=en&layout=compact" alt="edwinyoner" />
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwin-yoner&show_icons=true&locale=en" alt="edwin-yoner" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&locale=en" alt="edwinyoner" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwin-yoner&" alt="edwin-yoner" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinyoner&" alt="edwinyoner" /></p>
