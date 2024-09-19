@@ -6,8 +6,12 @@
 
 <h1 align="center">EDWIN YONER</h1>
 <h3 align="center">BACHILLER DE INGENIERÍA DE SISTEMAS E INFORMÁTICA</h3>
-<a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
 
+<p align = "center">
+  <br/>
+  <br/>
+  <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
 
 <p align="center">
@@ -16,7 +20,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://dev.to/edwinyoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edwinyoner" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/edwin-yoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin-yoner" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/edwinyoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edwinyoner" height="30" width="40" /></a>
   <a href="https://twitter.com/edwin_yoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwin_yoner" height="30" width="40" /></a>
