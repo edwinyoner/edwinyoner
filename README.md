@@ -65,37 +65,15 @@
 ### Lenguajes más usados (diferentes temas)
 
 <div align="center">
-  <!-- Tema Radical -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical" alt="Top Langs - Radical" />
-
-  <!-- Tema Synthwave -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=synthwave" alt="Top Langs - Synthwave" />
-
-  <!-- Tema Highcontrast -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=highcontrast" alt="Top Langs - Highcontrast" />
-
-  <!-- Tema Tokyo Night -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=tokyonight" alt="Top Langs - Tokyo Night" />
-
   <!-- Tema Merko -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
-
-  <!-- Tema Dracula -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=dracula" alt="Top Langs - Dracula" />
-
-  <!-- Tema Cobalt -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=cobalt" alt="Top Langs - Cobalt" />
+<br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinyoner&show_icons=true&locale=en&layout=compact&theme=merko" alt="edwinyoner" />
 </div>
-
-### Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=highcontrast)
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinyoner&show_icons=true&locale=en&layout=compact" alt="edwinyoner" />
+ 
 </p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&locale=en" alt="edwinyoner" /></p>
