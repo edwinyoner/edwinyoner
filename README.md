@@ -67,14 +67,32 @@
 <div align="center">
   <!-- Tema Merko -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
-<br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinyoner&show_icons=true&locale=en&layout=compact&theme=merko" alt="edwinyoner" />
+</div>
+### Lenguajes más usados (diferentes temas - compacto)
+
+<div align="center">
+  <!-- Tema Radical -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" alt="Top Langs - Radical" />
+
+  <!-- Tema Synthwave -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=synthwave" alt="Top Langs - Synthwave" />
+
+  <!-- Tema Highcontrast -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=highcontrast" alt="Top Langs - Highcontrast" />
+
+  <!-- Tema Tokyo Night -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Langs - Tokyo Night" />
+
+  <!-- Tema Merko -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=merko" alt="Top Langs - Merko" />
+
+  <!-- Tema Dracula -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dracula" alt="Top Langs - Dracula" />
+
+  <!-- Tema Cobalt -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=cobalt" alt="Top Langs - Cobalt" />
 </div>
 
-
-<p align="center">
- 
-</p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&locale=en" alt="edwinyoner" /></p>
 
