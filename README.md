@@ -62,12 +62,30 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<div align="center">
-  
+### Lenguajes más usados (diferentes temas)
 
+<div align="center">
+  <!-- Tema Radical -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical" alt="Top Langs - Radical" />
+
+  <!-- Tema Synthwave -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=synthwave" alt="Top Langs - Synthwave" />
+
+  <!-- Tema Highcontrast -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=highcontrast" alt="Top Langs - Highcontrast" />
+
+  <!-- Tema Tokyo Night -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=tokyonight" alt="Top Langs - Tokyo Night" />
+
+  <!-- Tema Merko -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
+
+  <!-- Tema Dracula -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=dracula" alt="Top Langs - Dracula" />
+
+  <!-- Tema Cobalt -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=cobalt" alt="Top Langs - Cobalt" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical)
 
 ### Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical)
