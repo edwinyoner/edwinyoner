@@ -62,15 +62,19 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<p align="center">
+<div align="center">
   
 
-</p>
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical)
 
 ### Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=highcontrast)
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinyoner&show_icons=true&locale=en&layout=compact" alt="edwinyoner" />
