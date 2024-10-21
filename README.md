@@ -69,5 +69,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie)](https://github.com/edwinyoner/github-readme-stats)
+### Lenguajes más usados (diferentes temas - gráfico circular)
+
+<div align="center">
+  <!-- Tema Radical -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=radical" alt="Top Langs - Radical" />
+
+  <!-- Tema Synthwave -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=synthwave" alt="Top Langs - Synthwave" />
+
+  <!-- Tema Highcontrast -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=highcontrast" alt="Top Langs - Highcontrast" />
+
+  <!-- Tema Tokyo Night -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=tokyonight" alt="Top Langs - Tokyo Night" />
+
+  <!-- Tema Merko -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko" alt="Top Langs - Merko" />
+
+  <!-- Tema Dracula -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=dracula" alt="Top Langs - Dracula" />
+
+  <!-- Tema Cobalt -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=cobalt" alt="Top Langs - Cobalt" />
+</div>
+
 
