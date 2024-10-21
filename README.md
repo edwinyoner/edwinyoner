@@ -69,20 +69,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&locale=en" alt="edwinyoner" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edwinyoner&" alt="edwinyoner" /></p>
-# ¡Hola! Soy [Tu Nombre]
-
-Desarrollador fullstack junior apasionado por la tecnología y la innovación.
-
-### Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=compact&theme=radical)
-
-### Mis estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie)](https://github.com/edwinyoner/github-readme-stats)
 
