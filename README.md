@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">EDWIN YONER</h1>
-<h3 align="center">BACHILLER DE INGENIERÍA DE SISTEMAS E INFORMÁTICA</h3>
+<h3 align="center">BACHILLER INGENIERÍA DE SISTEMAS E INFORMÁTICA</h3>
 
 <p align = "center">
   <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
