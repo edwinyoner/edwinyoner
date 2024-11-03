@@ -73,13 +73,12 @@
 </div>
 <br>
 
+<div align="center">
+  
 ## 🏆 Mis Trofeos de GitHub 🏆
 
-<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=monokai&column=4" 
          alt="GitHub Profile Trophies" />
   </a>
 </div>
-
-
