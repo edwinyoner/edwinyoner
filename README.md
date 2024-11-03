@@ -61,7 +61,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Lenguajes más usados</h3>
+
+
+<div align="center">
+Lenguajes más usados
 <div align="center">
   <!-- Tema Merko -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
@@ -72,13 +75,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko" alt="Top Langs - Merko" />
 </div>
 <br>
+</div>
 
-<div align="center">
-  
+<div align="center">  
 ## 🏆 Mis Trofeos de GitHub 🏆
-
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=monokai&column=4" 
          alt="GitHub Profile Trophies" />
   </a>
+</div>
+
+<h2 align="center">⚡ Lenguajes y Herramientas ⚡</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
 </div>
