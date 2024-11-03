@@ -14,7 +14,7 @@
 
 <div style="text-align: center; border: 2px solid #333; padding: 15px; margin: 20px auto; max-width: 900px; display: felx; flex-direction: horizontal; ">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img style="width: 100%; height: auto;" src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=matrix&column=4" alt="GitHub Profile Trophies"/>
+    <img style="width: 50%; height: auto;" src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=matrix&column=4" alt="GitHub Profile Trophies"/>
   </a>
 </div>
 
