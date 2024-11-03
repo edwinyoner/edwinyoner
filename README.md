@@ -71,10 +71,13 @@
   <!-- Tema Merko -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko" alt="Top Langs - Merko" />
 </div>
+<br>
+
+## 🏆 Mis Trofeos de GitHub 🏆
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=matrix&column=4" 
+    <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=monokai&column=4" 
          alt="GitHub Profile Trophies" />
   </a>
 </div>
