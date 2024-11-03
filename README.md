@@ -14,8 +14,6 @@
 
 <h2 align="center">⚡ Lenguajes y Herramientas ⚡</h2>
 
-<h2 align="center">⚡ Lenguajes y Herramientas ⚡</h2>
-
 <p align="center">
     <img src="https://img.shields.io/badge/VHDL-666666?style=for-the-badge&logo=xilinx&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -41,9 +39,6 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
@@ -101,7 +96,6 @@
 
 
 <div align="center">
-Lenguajes más usados
 <div align="center">
   <!-- Tema Merko -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
