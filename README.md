@@ -13,7 +13,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=monokai" alt="edwinyoner" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=monokai&column=4" 
+         alt="GitHub Profile Trophies" />
+  </a>
 </div>
 
 <h3 align="center">Connect with me:</h3>
