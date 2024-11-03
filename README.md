@@ -12,9 +12,10 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
 
-<div style="text-align: center; border: 2px solid #333; padding: 15px; margin: 20px auto; max-width: 900px; display: felx; flex-direction: horizontal; ">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img style="width: 50%; height: auto;" src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=matrix&column=4" alt="GitHub Profile Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=edwinyoner&theme=matrix&column=4" 
+         alt="GitHub Profile Trophies" />
   </a>
 </div>
 
