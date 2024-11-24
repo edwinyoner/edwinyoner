@@ -59,11 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
-</div>
-
 <!--
 <h3 align="center">Connect with me:</h3>
 <p align="center">
