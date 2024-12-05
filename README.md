@@ -134,3 +134,27 @@
   </a>
 </div>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <span style="background: linear-gradient(to right, #FF0000, #00FF00);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    ¡Bienvenidos a mi Perfil!
+  </span>
+</h1>
+
+### Tecnologías que Manejo
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hola+🖐;Soy+Desarrollador+Web;Bienvenido+a+mi+Perfil!&center=true&size=30">
+  </a>
+</h1>
+
+![Contador de Visitas](https://komarev.com/ghpvc/?username=edwinyoner&color=blueviolet)
+
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
