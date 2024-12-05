@@ -5,17 +5,16 @@
 </p>
 
 <h1 align="center">EDWIN YONER</h1>
+<p align="center">
+  <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=600&lines=Hola+👋+Soy+Edwin+Yoner;Desarrollador+Full+Stack+Junior+🚀;Transformando+ideas+en+código+💻;Aprendiendo+y+creciendo+cada+día+📈;Construyendo+soluciones+innovadoras+🌐" alt="Typing SVG">
   </a>
 </h1>
-
-<p align="center">
-  <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
-</p>
 
 <h2 align="center">⚡ Lenguajes ⚡</h2>
 
