@@ -6,6 +6,12 @@
 
 <h1 align="center">EDWIN YONER</h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=24&duration=4000&pause=500&color=00A8E8&center=true&width=700&lines=Edwin+Yoner+👨‍💻;Full+Stack+Developer+Junior+🚀;Creando+Soluciones+Digitales+💡;Especializado+en+Desarrollo+Web+🌐;Transformando+Ideas+en+Código+✨" alt="Presentación Profesional">
+  </a>
+</h1>
+
 <p align = "center">
   <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
 </p>
@@ -88,32 +94,3 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=600&lines=Hola+👋+Soy+Edwin+Yoner;Desarrollador+Full+Stack+Junior+🚀;Transformando+ideas+en+código+💻;Aprendiendo+y+creciendo+cada+día+📈;Construyendo+soluciones+innovadoras+🌐" alt="Typing SVG">
   </a>
 </h1>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=24&duration=4000&pause=500&color=00A8E8&center=true&width=700&lines=Edwin+Yoner+👨‍💻;Full+Stack+Developer+Junior+🚀;Creando+Soluciones+Digitales+💡;Especializado+en+Desarrollo+Web+🌐;Transformando+Ideas+en+Código+✨" alt="Presentación Profesional">
-  </a>
-</h1>
-
-
-<h1 align="center">
-  <div style="border: 2px solid transparent; border-image: linear-gradient(to right, #00C6FF, #0072FF) 1; border-radius: 10px; padding: 10px; animation: border-dance 5s linear infinite;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=25&duration=3500&color=00F7FF&center=true&width=700&lines=Edwin+Yoner+|+Full+Stack+Developer+🚀;Craft+Digital+Solutions+💻;Innovating+Through+Code+✨;Bridging+Ideas+and+Technology+🌐;Continuous+Learning+Journey+📈" alt="Futuristic Tech Profile">
-    </a>
-  </div>
-</h1>
-
-<style>
-@keyframes border-dance {
-  0% {
-    border-image: linear-gradient(to right, #00C6FF, #0072FF) 1;
-  }
-  50% {
-    border-image: linear-gradient(to right, #0072FF, #00C6FF) 1;
-  }
-  100% {
-    border-image: linear-gradient(to right, #00C6FF, #0072FF) 1;
-  }
-}
-</style>
