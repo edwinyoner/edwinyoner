@@ -22,8 +22,8 @@
 </h1>
 <h3 align="center">Estadísticas de mi GitHub</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-github&layout=compact&theme=dark" alt="Lenguajes más utilizados">
+  <img src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&count_private=true&hide=prs&theme=dark" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=compact&theme=dark" alt="Lenguajes más utilizados">
 </p>
 <p align="center">
   <img src="https://api.time.is/1.svg" alt="Hora actual">
@@ -37,7 +37,7 @@
 </p>
 <h3 align="center">Mi Calendario de Contribuciones</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tu-usuario-github&theme=github" alt="Calendario de Contribuciones">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=edwinyoner&theme=github" alt="Calendario de Contribuciones">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Curso%20de%20React-Completed-brightgreen" alt="Badge de Curso React">
