@@ -1,6 +1,4 @@
 <p align = "center">
-  <br/>
-  <br/>
   <img src = "https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width = "25%">
 </p>
 
@@ -17,6 +15,13 @@
 </h1>
 
 <!--  -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/l0MYr9g4meA0CHPfi/giphy.gif" width="25%" alt="GIF Divertido">
+</h1>
+<h1 align="center">
+  <img src="https://media.tenor.com/images/a2a3bcbd728bb6a64c87c10526b78862/tenor.gif" width="30%" alt="GIF Motivacional">
+</h1>
+
 <!--  -->
 
 <h2 align="center">🌐 Lenguajes 🌐</h2>
