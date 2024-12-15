@@ -28,6 +28,16 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=500&color=FF6600&center=true&width=700&lines=%3E+Edwin+Yoner+%5BDev+Mode+ON%5D;%3E+Crafting+Digital+Solutions+%F0%9F%92%A1;%3E+Full+Stack+Journey+%F0%9F%9A%80;%3E+Learning+%7C+Growing+%7C+Creating+%E2%9C%A8" alt="Retro Programmer Typing SVG">
   </a>
 </h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=000000&center=true&width=600&lines=Edwin+Yoner+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;Transforming+Ideas+into+Code+%E2%9D%A4%EF%B8%8F" alt="Elegant Typing SVG">
+  </a>
+</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=500&color=00FFFF&center=true&width=700&lines=%3C%3A+Edwin+Yoner+%2F%3E;Cyber+Full+Stack+Developer+%F0%9F%92%BB;Digital+Architect+%F0%9F%8C%90;Code+%7C+Innovate+%7C+Transform+%E2%9A%A1" alt="Cyberpunk Typing SVG">
+  </a>
+</h1>
 <!--  -->
 
 <h2 align="center">⚡ Lenguajes ⚡</h2>
