@@ -17,12 +17,6 @@
 </h1>
 
 <!--  -->
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.gif" width="150" alt="Avatar">
-</h1>
-
-
-
 <!--  -->
 
 <h2 align="center">🌐 Lenguajes 🌐</h2>
