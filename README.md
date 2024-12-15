@@ -17,15 +17,11 @@
 </h1>
 
 <!--  -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=500&color=00FF41&center=true&width=700&lines=root@Edwin:~%24+whoami;>>+Edwin+Yoner+%5BHACKER%5D;>>+Full+Stack+Developer+%5B_level:+Junior_%5D;>>+system.hack();+%5Binnovation+loading...%5D;>>+skill.upgrade(%5Bknowledge%5D);" alt="Retro Hacker Typing SVG">
-  </a>
-</h1>
+
 
 <!--  -->
 
-<h2 align="center">⚡ Lenguajes ⚡</h2>
+<h2 align="center">🌐 Lenguajes 🌐</h2>
 
 <p align="center">
     <!-- Lenguajes de Descripción -->
@@ -43,7 +39,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-<h2 align="center">⚡ Bases de Datos ⚡</h2>
+<h2 align="center">🗃️ Bases de Datos 🗃️</h2>
 <p align="center">
   <!-- Bases de Datos -->
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -54,7 +50,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-<h2 align="center">⚡ Frameworks ⚡</h2>
+<h2 align="center">🚀 Frameworks 🚀</h2>
 <p align="center">
   <!-- Frameworks -->
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -62,7 +58,7 @@
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
 </p>
 
-<h2 align="center">⚡ Control de Versiones ⚡</h2>
+<h2 align="center">🗂️ Control de Versiones 🗂️</h2>
 <p align="center">
     <!-- Control de Versiones -->
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
