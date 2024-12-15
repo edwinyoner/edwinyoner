@@ -15,14 +15,6 @@
 </h1>
 
 <!--  -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26uf9P99NV1pZQKm0/giphy.gif" width="20%" alt="Código en Progreso">
-</h1>
-<h1 align="center">
-  <img src="https://media.giphy.com/media/1BgY6jD9lXj1y/giphy.gif" width="25%" alt="Dev Work">
-</h1>
-
-
 <!--  -->
 
 <h2 align="center">🌐 Lenguajes 🌐</h2>
