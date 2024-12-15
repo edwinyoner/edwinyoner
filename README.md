@@ -23,8 +23,6 @@
   </a>
 </h1>
 
-<h1>Juego de Adivinanza</h1> <script> let number = Math.floor(Math.random() * 10) + 1; let guess = prompt("Adivina el número entre 1 y 10:"); if (guess == number) { alert("¡Correcto!"); } else { alert("Incorrecto. El número era " + number); } </script>
-</h1>
 <!--  -->
 
 <h2 align="center">⚡ Lenguajes ⚡</h2>
