@@ -16,11 +16,12 @@
 
 <!--  -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYr9g4meA0CHPfi/giphy.gif" width="25%" alt="GIF Divertido">
+  <img src="https://media.giphy.com/media/26uf9P99NV1pZQKm0/giphy.gif" width="20%" alt="Código en Progreso">
 </h1>
 <h1 align="center">
-  <img src="https://media.tenor.com/images/a2a3bcbd728bb6a64c87c10526b78862/tenor.gif" width="30%" alt="GIF Motivacional">
+  <img src="https://media.giphy.com/media/1BgY6jD9lXj1y/giphy.gif" width="25%" alt="Dev Work">
 </h1>
+
 
 <!--  -->
 
