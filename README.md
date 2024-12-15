@@ -16,6 +16,20 @@
   </a>
 </h1>
 
+<!--  -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&pause=500&color=00FF41&center=true&width=700&lines=root@Edwin:~%24+whoami;>>+Edwin+Yoner+%5BHACKER%5D;>>+Full+Stack+Developer+%5B_level:+Junior_%5D;>>+system.hack();+%5Binnovation+loading...%5D;>>+skill.upgrade(%5Bknowledge%5D);" alt="Retro Hacker Typing SVG">
+  </a>
+</h1>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=25&pause=500&color=FF6600&center=true&width=700&lines=%3E+Edwin+Yoner+%5BDev+Mode+ON%5D;%3E+Crafting+Digital+Solutions+%F0%9F%92%A1;%3E+Full+Stack+Journey+%F0%9F%9A%80;%3E+Learning+%7C+Growing+%7C+Creating+%E2%9C%A8" alt="Retro Programmer Typing SVG">
+  </a>
+</h1>
+<!--  -->
+
 <h2 align="center">⚡ Lenguajes ⚡</h2>
 
 <p align="center">
