@@ -62,22 +62,47 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
 </div>
 
 <div align="center">
 <div align="center">
-  <!-- Tema Merko -->
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&langs_count=20&theme=merko" alt="Top Langs - Merko" />
 </div>
 
 <div align="center">
-  <!-- Tema Merko -->
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko" alt="Top Langs - Merko" />
 </div>
 <br>
+</div>
+-->
+
+
+<div align="center">
+  <!-- Estadísticas generales -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Estadísticas de Edwin Yoner" 
+    width="420"
+  />
+
+  <!-- Top lenguajes (compacto + pie) -->
+  <br><br>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=420" 
+    alt="Top Lenguajes - Compacto" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko&hide_border=true&langs_count=8" 
+    alt="Top Lenguajes - Pie Chart" 
+  />
 </div>
 
 <div align="center">  
