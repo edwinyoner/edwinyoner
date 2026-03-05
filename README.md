@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </p>
 
-<!--
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&theme=monokai&layout=compact&hide_border=true&langs_count=8&card_width=445" alt="Top Languages" />
 </div>
@@ -79,32 +79,8 @@
 </div>
 <br>
 </div>
--->
 
 
-<div align="center">
-  <!-- Streak (días consecutivos) -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=edwinyoner&theme=merko&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-
-  <br><br>
-
-  <!-- Top lenguajes con shields.io (muy estable) -->
-  <img 
-    src="https://img.shields.io/github/languages/top/edwinyoner/winner-systems-smart-parking-platform?style=for-the-badge&color=1e40af&logo=typescript&logoColor=white" 
-    alt="Top Language" 
-  />
-
-  <br><br>
-
-  <!-- Otro fallback simple -->
-  <img 
-    src="https://img.shields.io/github/languages/count/edwinyoner/winner-systems-smart-parking-platform?style=for-the-badge&color=06b6d4&logo=javascript&logoColor=white" 
-    alt="Lenguajes" 
-  />
-</div>
   
 ## 🏆 Mis Trofeos de GitHub 🏆
 
