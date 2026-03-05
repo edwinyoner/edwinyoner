@@ -83,29 +83,28 @@
 
 
 <div align="center">
-  <!-- Estadísticas generales -->
+  <!-- Streak (días consecutivos) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=edwinyoner&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" 
-    alt="Estadísticas de Edwin Yoner" 
-    width="420"
-  />
-
-  <!-- Top lenguajes (compacto + pie) -->
-  <br><br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=compact&theme=merko&hide_border=true&langs_count=8&card_width=420" 
-    alt="Top Lenguajes - Compacto" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=edwinyoner&theme=merko&hide_border=true" 
+    alt="GitHub Streak" 
   />
 
   <br><br>
 
+  <!-- Top lenguajes con shields.io (muy estable) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko&hide_border=true&langs_count=8" 
-    alt="Top Lenguajes - Pie Chart" 
+    src="https://img.shields.io/github/languages/top/edwinyoner/winner-systems-smart-parking-platform?style=for-the-badge&color=1e40af&logo=typescript&logoColor=white" 
+    alt="Top Language" 
+  />
+
+  <br><br>
+
+  <!-- Otro fallback simple -->
+  <img 
+    src="https://img.shields.io/github/languages/count/edwinyoner/winner-systems-smart-parking-platform?style=for-the-badge&color=06b6d4&logo=javascript&logoColor=white" 
+    alt="Lenguajes" 
   />
 </div>
-
-<div align="center">  
   
 ## 🏆 Mis Trofeos de GitHub 🏆
 
