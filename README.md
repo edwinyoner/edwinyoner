@@ -78,7 +78,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinyoner&layout=pie&theme=merko" alt="Top Langs - Merko" />
 </div>
 <br>
-</div>
+
 
 
   
