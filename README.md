@@ -4,8 +4,8 @@
 
 <h1 align="center">EDWIN YONER</h1>
 <p align="center">
-  <a href="https://www.edwinyoner.com" align="center">www.edwinyoner.com</a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwinyoner" /> </p>
+  <a href="https://www.edwinyoner.com" align="center">www.edwin-yoner.com</a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=edwin-yoner&label=Profile%20views&color=0e75b6&style=flat" alt="edwin-yoner" /> </p>
 </p>
 
 <h1 align="center">
